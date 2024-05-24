@@ -1,0 +1,29 @@
+# Core libraries
+numpy==1.23.4
+scipy==1.9.3
+matplotlib==3.6.2
+
+# Image processing libraries
+opencv-python==4.6.0.66
+Pillow==9.2.0
+
+# Deep learning frameworks
+torch==1.13.0
+torchvision==0.14.0
+
+# For YOLOv8
+ultralytics==8.0.20
+
+# Additional utilities
+tqdm==4.64.1
+requests==2.28.1
+
+# For handling datasets and data augmentation
+albumentations==1.2.1
+scikit-image==0.19.3
+
+# Logging and tracking experiments
+tensorboard==2.10.1
+
+# For handling large data files
+h5py==3.7.0
